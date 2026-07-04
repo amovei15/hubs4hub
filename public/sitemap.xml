@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://hubs4hub.com/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-<url><loc>https://hubs4hub.com/skachat-happ/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/podpiska/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/konfigi/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/podklyuchenie/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/pk/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/android/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/ios/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/tv/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/problemy/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://hubs4hub.com/faq/</loc><lastmod>2026-06-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://hubs4hub.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
