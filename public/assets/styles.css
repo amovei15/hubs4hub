@@ -302,7 +302,7 @@ a.fc-card:hover{color:inherit;transform:translateY(-1px)}
   .plans{grid-template-columns:repeat(2,1fr)}
   .foot-inner{grid-template-columns:1fr 1fr}
 }
-@media(max-width:980px){
+@media(max-width:1080px){
   .nav-links{display:none}
   .nav-cta{display:none}
   .nav-burger{display:inline-flex}
