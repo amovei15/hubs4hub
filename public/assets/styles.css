@@ -91,7 +91,7 @@ a:hover{color:var(--indigo-3)}
   color:#fff;box-shadow:0 6px 22px var(--glow)}
 .btn-primary:hover{color:#fff;transform:translateY(-1px);box-shadow:0 10px 30px var(--glow)}
 .btn-ghost{background:transparent;color:var(--ink);border:1px solid var(--line-strong)}
-.btn-ghost:hover{background:var(--bg-card);border-color:var(--indigo);color:var(--ink)}
+.btn-ghost:hover{background:var(--bg-card);border-color:var(--indigo);color:var(--ink)}.btn-tg{background:linear-gradient(135deg,#2AABEE 0%,#229ED9 100%);color:#fff;box-shadow:0 6px 22px rgba(34,158,217,.35)}.btn-tg:hover{color:#fff;transform:translateY(-1px);box-shadow:0 10px 30px rgba(34,158,217,.45)}
 .btn-sm{padding:9px 18px;font-size:14px}
 
 .hero-stats{display:flex;gap:28px;flex-wrap:wrap;color:var(--muted);
